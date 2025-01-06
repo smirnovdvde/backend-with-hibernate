@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: backend-with-hibernate
+  jpa:
+    open-in-view: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
